@@ -11,4 +11,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/alirezanqp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alirezanqp" /></a></p><br><br>
+<br>
+<div class="w-full lg:w-1/2 p-1 dark:hidden"><img class="w-full" src="https://github-readme-stats.vercel.app/api?username=alirezanqp&amp;show_icons=true" alt="alirezanqp's stats"></div>
+
+<div class="w-full lg:w-1/2 p-1 dark:hidden"><img class="w-full" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezanqp&amp;layout=compact" alt="alirezanqp's langs"></div>
+
+
 
