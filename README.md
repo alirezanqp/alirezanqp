@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Alireza</h1>
+<h2 align="Center">  Hi I'm Alireza <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 <h3 align="center">I'm a Backend Developer</h3>
 
 # 💫About Me :
-💬 Ask me about JavaScript, Node.js
+💬 Ask me about anything, I am happy to help
 
-📫 How to reach me alirezanqp@gmail.com
+📫 You can contact me at alirezanqp@gmail.com
+
+🤝 I'm open to collaborating on Back-end Related Projects
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alirezanqp) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alirezanqp) 
@@ -16,11 +18,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alirezanqp&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezanqp&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alirezanqp&icon=0&color=12)](https://visitcount.itsvg.in)
