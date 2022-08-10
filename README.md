@@ -14,6 +14,6 @@
 <details>
   <summary>Github Stats ⚡</summary>
   
-  <a href="#">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezanqp&show_icons=true&theme=tokyonight)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezanqp&layout=compact&theme=tokyonight)</a>
+  <a href="#">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezanqp&show_icons=true&theme=)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezanqp&layout=compact&theme=)</a>
 </details>
