@@ -13,7 +13,10 @@
 
 <details>
   <summary>Github Stats ⚡</summary>
+  <br/>
   
-  <a href="#">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezanqp&show_icons=true&theme=)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezanqp&layout=compact&theme=)</a>
+  <a href="#">![Anurag's GitHub stats](https://github.com/alirezanqp/github-stats-transparent/blob/output/generated/overview.svg)</a>
+  <a href="#">![Top langs](https://github.com/alirezanqp/github-stats-transparent/blob/output/generated/languages.svg)</a>
 </details>
+
+
