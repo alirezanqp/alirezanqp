@@ -8,15 +8,12 @@
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
 
 
-![](https://raw.githubusercontent.com/alirezanqp/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/alirezanqp/github-stats/master/generated/overview.svg#gh-light-mode-only)
+<br/>
 
 <details>
   <summary>Github Stats ⚡</summary>
   <br/>
   
-  <a href="#">![Anurag's GitHub stats](https://github.com/alirezanqp/github-stats-transparent/blob/output/generated/overview.svg)</a>
-  <a href="#">![Top langs](https://github.com/alirezanqp/github-stats-transparent/blob/output/generated/languages.svg)</a>
+  <a href="#">![](https://github.com/alirezanqp/github-stats/blob/master/generated/overview.svg)</a>
+  <a href="#">![Top langs](https://github.com/alirezanqp/github-stats/blob/master/generated/languages.svg)</a>
 </details>
-
-
