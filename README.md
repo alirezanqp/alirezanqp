@@ -1,7 +1,7 @@
 # Hey There! 👋
 **I'm Alireza <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> (he/they)** - I'm a backend engineer. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time.
 
-[![SkillIcons](https://skillicons.dev/icons?i=ts,go,nodejs,express,nestjs,graphql,mongodb,postgres,linux,aws,docker)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=ts,go,nodejs,nestjs,graphql,mongodb,postgres,linux,aws,docker)](https://skillicons.dev)<br/>
 
 [![](https://visitcount.itsvg.in/api?id=alirezanqp&icon=0&color=12)](https://visitcount.itsvg.in)
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
